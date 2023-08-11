@@ -1,0 +1,6 @@
+/env
+db.sqlite3_tst
+.DS_Store
+.idea/django-channels-basic-chat.iml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
