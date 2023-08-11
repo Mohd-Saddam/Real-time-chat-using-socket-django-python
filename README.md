@@ -44,5 +44,9 @@ Run the Server Start the Django development server:
 python manage.py runserver
 Open your web browser and go to http://localhost:8000/ to access the application.
 
-![image](https://github.com/Mohd-Saddam/Real-time-chat-using-socket-django-python/assets/50014573/1da0b741-d1ea-4bf8-a3fc-cc8b0a013ee2)
+Socket api:
+ws://localhost:8000/ws/socket-server/<pass the user which user you want to connect>/
+
+![image](https://github.com/Mohd-Saddam/Real-time-chat-using-socket-django-python/assets/50014573/5c59b716-9cdb-444b-acf1-2116a829f0dc)
+
 
