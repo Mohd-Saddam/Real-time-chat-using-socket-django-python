@@ -1,4 +1,21 @@
 
+This is the Task:
+Create User
+A user can sign up with the following property:
+Full Name, Email, Phone, Gender, Country, Password, and interests(should have the option to select multiple interests)
+A user can log in using a combination of Phone or Email and a password.
+
+Make Connection
+After login/Signup one toggle should be there to make them online or offline.
+There should be one button for connecting to another user. After clicking on that button, I should find another user who is online.
+Connection logic:
+One person can connect with only one person at a time.
+First, find users with interests, if there is no person who matches with interests, connect with anyone who is online.
+After connection, show the user name, gender, and country details to each other
+Connection should happen using a socket.
+Users can chat with each other after connection (Optional)
+
+
 
 Set Up a Virtual Environment (optional but recommended) Create a virtual environment to isolate the project dependencies:
 
