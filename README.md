@@ -47,6 +47,7 @@ Open your web browser and go to http://localhost:8000/ to access the application
 Socket api:
 ws://localhost:8000/ws/socket-server/<pass the user which user you want to connect>/
 
-![image](https://github.com/Mohd-Saddam/Real-time-chat-using-socket-django-python/assets/50014573/5c59b716-9cdb-444b-acf1-2116a829f0dc)
+![socket api pic](https://github.com/Mohd-Saddam/Real-time-chat-using-socket-django-python/assets/50014573/2afe1586-55e8-40c6-bf42-ed99cd4c8afd)
+
 
 
